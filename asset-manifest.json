@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/time-tracker-react/static/css/main.69658418.chunk.css",
+    "main.js": "/time-tracker-react/static/js/main.3ebb69e4.chunk.js",
+    "main.js.map": "/time-tracker-react/static/js/main.3ebb69e4.chunk.js.map",
+    "runtime-main.js": "/time-tracker-react/static/js/runtime-main.eb9b07b5.js",
+    "runtime-main.js.map": "/time-tracker-react/static/js/runtime-main.eb9b07b5.js.map",
+    "static/js/2.a2d90dad.chunk.js": "/time-tracker-react/static/js/2.a2d90dad.chunk.js",
+    "static/js/2.a2d90dad.chunk.js.map": "/time-tracker-react/static/js/2.a2d90dad.chunk.js.map",
+    "index.html": "/time-tracker-react/index.html",
+    "static/css/main.69658418.chunk.css.map": "/time-tracker-react/static/css/main.69658418.chunk.css.map",
+    "static/js/2.a2d90dad.chunk.js.LICENSE.txt": "/time-tracker-react/static/js/2.a2d90dad.chunk.js.LICENSE.txt",
+    "static/media/item-list.css": "/time-tracker-react/static/media/remove-icon.594713c1.svg",
+    "static/media/Input.css": "/time-tracker-react/static/media/play_circle.3581efba.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb9b07b5.js",
+    "static/js/2.a2d90dad.chunk.js",
+    "static/css/main.69658418.chunk.css",
+    "static/js/main.3ebb69e4.chunk.js"
+  ]
+}
